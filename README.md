@@ -6,7 +6,7 @@ Olá! Meu nome é Gustavo Avila, estudante de Engenharia de Software na UniBrasi
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 
 ## TESTE
-![Gustavo Avila GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAvilaa&show_icons=true&theme=radical)
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAvilaa&show_icons=true&theme=transparent)
           
           
           
