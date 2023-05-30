@@ -8,9 +8,9 @@ Olá! Meu nome é Gustavo Avila, estudante de Engenharia de Software na UniBrasi
 ## TESTE
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoAvilaa&show_icons=true&theme=transparent)
 
-##TESTE2
+## TESTE2
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAvilaa&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoAvilaa&hide_progress=DonutChartlayout)](https://github.com/anuraghazra/github-readme-stats)
           
           
           
